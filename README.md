@@ -9,7 +9,9 @@ data preperation
 
 
 > VCF = VCF.gz
+> 
 > SAMPLE = list of samples too kep in VCF
+> 
 > DIR = Directory to save  files for GWAS
 
 
@@ -20,6 +22,9 @@ GWAS and Manhattan plot
 
 
 > VCF = VCF.gz
+> 
 > DIR = Directory of input data for EMMAX
+> 
 > PHENOTYPE_FILE = phenotype file with proper format for EMMAX
+> 
 > OUTPUT_DIR = directory to save GWAS result and manhattan plot
