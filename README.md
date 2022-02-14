@@ -10,7 +10,7 @@ data preperation
 
 > VCF = VCF.gz
 > 
-> SAMPLE = list of samples too kep in VCF
+> SAMPLE = list of samples to kep in VCF
 > 
 > DIR = Directory to save  files for GWAS
 
